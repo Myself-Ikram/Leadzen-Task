@@ -1,4 +1,4 @@
-![image](https://github.com/Myself-Ikram/Leadzen-Task/assets/97652328/cffeecdb-228c-4ef0-9049-8fa8c806bda9)**Task:** Develop a MERN stack app using Express.js and React.js
+**Task:** Develop a MERN stack app using Express.js and React.js
 
 **Description:**
 This repository contains the codebase for desired application. The backend is built with Express.js, fetches data from `https://jsonplaceholder.typicode.com/users` API and serves it to the frontend via the route `/api/data`. The frontend is developed in React.js, showcases the retrieved user data with an intuitive UI. It employs Redux for state management and implements custom pagination to efficiently display user information as a list.
