@@ -18,6 +18,6 @@ This repository contains the codebase for desired application. The backend is bu
 1. Clone the repository to your local environment.
 2. Navigate to the `server` directory and run `npm install` to install backend dependencies.
 3. Start the backend server by running `npm start`.
-4. Move to the `client` directory and run `npm install` to install frontend dependencies.
+4. Move to the `frontend` directory and run `npm install` to install frontend dependencies.
 5. Launch the frontend by running `npm start`.
 6. Access the application at `http://localhost:3000`.
